@@ -5,7 +5,7 @@ Deleted: **camera, gallery, microphone, contact list, biometry and location acce
 
 Added: -
 
-I do not take any right for MAX messenger from it's original authors/developers.
+I do not take any right for MAX messenger from it's authors/developers.
 
 Guide: install the APK on your device.
 
