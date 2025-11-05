@@ -1,5 +1,5 @@
 # safemax
-safemax is a MAX installer (.apk file) with dangerous permissions deleted.
+safemax is a MAX installer (.apks* file) with dangerous permissions deleted.
 
 Deleted: **camera, gallery, microphone, contact list, biometry and location access.**
 
@@ -10,3 +10,5 @@ I do not take any right for MAX messenger from it's original authors/developers.
 Guide: install the APK on your device.
 
 Made with: **Lucky Patcher (credits: ChelpuS)**
+
+* .apks file cannot install without a proper program. Use SAI(https://play.google.com/store/apps/details?id=com.mtv.sai)
