@@ -1,5 +1,5 @@
 ## safemax
-safemax is a MAX Messenger client with some dangerous permissions deleted.
+safemax is a [MAX Messenger](https://max.ru/) client with some of dangerous permissions patched out.
 
 Deleted: **camera, gallery, microphone, contact list, biometry and location access.**
 
